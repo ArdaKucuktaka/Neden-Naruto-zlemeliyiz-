@@ -1,0 +1,128 @@
+
+        body{
+            background-color: rgb(30, 57, 57);
+        }
+        *{
+            color: aliceblue;
+        }
+        .menu{
+            display: inline-block;
+            padding: 5px 10px;
+            border: 2px solid #ff4200; /* Turuncu çerçeve */
+            border-radius: 7px;
+            background-color: rgb(255, 127, 80); /* Açık arka plan */
+            text-decoration: none;
+            margin: 0 5px;
+            color: black;
+            font-weight: bold;
+        }
+        body {
+  background-color: rgb(30, 57, 57);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #f0f4f8; /* Açık gri-beyaz ton */
+  line-height: 1.6;
+  margin: 20px;
+  padding: 0;
+}
+
+#NARUTO {
+  font-size: 2rem;
+  color: #FFD700; /* Altın sarısı, Naruto temasına uygun */
+  border-bottom: 2px solid #FFD700;
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+
+p {
+  font-size: 1.1rem;
+  max-width: 1500px;
+  background-color: rgba(255, 255, 255, 0.05); /* Hafif şeffaf kutu */
+  padding: 15px 20px;
+  border-left: 7px solid #FFD700;
+  border-radius: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+strong {
+  color: #ffffff;
+  font-weight: bold;
+  background-color: rgba(255, 215, 0, 0.1); /* Altın tonu vurgusu */
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+
+.baslik {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #f5c518; /* Tok sarı - dikkat çeker ama bağırmaz */
+  font-size: 2.6rem;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-align: center;
+  padding: 12px 24px;
+  background-color: rgba(245, 197, 24, 0.05); /* Hafif sarı arka plan */
+  border: 2px solid rgba(245, 197, 24, 0.3); /* Kenarlarda ince zarafet */
+  border-radius: 12px;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+  display: inline-block;
+}
+
+.uchiha {
+  background: linear-gradient(135deg, #3a1b1b, #6a2323);
+  border: 2px solid #7a2a2a;
+  box-shadow: 0 0 6px #7a2a2a;
+}
+/* Hyuga Klanı - Buz gibi açık mavi ve beyaz */
+.hyuga {
+  background: linear-gradient(135deg, #acc8db, #7da6c9);
+  border: 2px solid #557aa3;
+  color: #222;
+  box-shadow: 0 0 6px #557aa3;
+}
+
+/* Senju Klanı - Doğal yeşil tonları */
+.senju {
+  background: linear-gradient(135deg, #365b28, #5a8a3a);
+  border: 2px solid #3f6c2a;
+  box-shadow: 0 0 6px #3f6c2a;
+}
+
+/* Nara Klanı - Toprak kahverengi */
+.nara {
+  background: linear-gradient(135deg, #3e3116, #887545);
+  border: 2px solid #5f5223;
+  box-shadow: 0 0 5px #5f5223;
+}
+
+/* Uzumaki Klanı - Sıcak turuncu tonları */
+.uzumaki {
+  background: linear-gradient(135deg, #b0551a, #d68a53);
+  border: 2px solid #954718;
+  box-shadow: 0 0 5px #954718;
+}
+
+/* Aburame Klanı - Koyu yeşil ve gri */
+.aburame {
+  background: linear-gradient(135deg, #204040, #406363);
+  border: 2px solid #2f5555;
+  box-shadow: 0 0 5px #2f5555;
+}
+
+/* Yamanaka Klanı - Koyu kahverengi ve kırmızı tonları */
+.yamanaka {
+  background: linear-gradient(135deg, #3b2519, #854734);
+  border: 2px solid #5f3a2e;
+  box-shadow: 0 0 5px #5f3a2e;
+}
+
+/* Akimichi Klanı - Gri tonları ve sıcak kahve */
+.akimichi {
+  background: linear-gradient(135deg, #464646, #8a8573);
+  border: 2px solid #656157;
+  box-shadow: 0 0 5px #656157;
+}
+
